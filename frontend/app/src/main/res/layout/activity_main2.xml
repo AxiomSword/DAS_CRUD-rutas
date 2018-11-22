@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Main2Activity">
+
+    <Button
+        android:id="@+id/btnRegistrarUsuario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnRegistrarUsuario" />
+
+    <Button
+        android:id="@+id/btnIniciarSesion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnIniciarSesion" />
+
+    <Button
+        android:id="@+id/btnRegistrarRuta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnRegistrarRuta" />
+
+    <Button
+        android:id="@+id/btnListarRutas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnListarRutas" />
+
+    <Button
+        android:id="@+id/btnEliminarRuta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnEliminarRuta" />
+
+    <Button
+        android:id="@+id/btnActualizarRuta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnActualizarRuta" />
+</LinearLayout>

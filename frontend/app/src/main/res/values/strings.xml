@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DAS_CRUD-rutas</string>
+    <string name="btnRegistrarUsuario">Registrar usuario</string>
+    <string name="btnIniciarSesion">Iniciar sesión</string>
+    <string name="btnRegistrarRuta">Registrar ruta</string>
+    <string name="btnListarRutas">Listar rutas</string>
+    <string name="btnEliminarRuta">Eliminar ruta</string>
+    <string name="btnActualizarRuta">Actualizar ruta</string>
+    <string name="txtCorreo">Correo</string>
+    <string name="txtContrasenia">Contraseña</string>
+    <string name="btnRegistrarse">Registrarse</string>
+    <string name="hintCorreo">correo@unisabana.edu.co</string>
+    <string name="hintContrasenia">**********</string>
+    <string name="title_activity_registrar_ruta">Registrar ruta</string>
+    <string name="txtPlacaVehiculo">Placa vehículo</string>
+    <string name="hintPlacaVehiculo">ABC 123</string>
+    <string name="txtNumeroPuestos">Número de puestos</string>
+    <string name="txtPuntoSalida">Punto de salida</string>
+    <string name="txtPuntoDestino">Punto de destino</string>
+    <string name="txtHoraInicio">Hora inicio</string>
+    <string name="txtHoraSalida">Hora salida</string>
+    <string name="txtCostoPersona">Costo por persona</string>
+    <string name="txtIdRuta">Id</string>
+</resources>
